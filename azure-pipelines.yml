@@ -1,5 +1,5 @@
 #
-# Just making aother change so that git can pick up the changes
+# Just making aother change so that git can pick up the changes...
 #
 trigger:
 - '*'
